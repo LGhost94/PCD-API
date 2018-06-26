@@ -1,0 +1,863 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PMSData lastUpdate="2018-06-05T01:37:20+01:00">
+  <room lastUpdate="2018-06-04T19:39:32+01:00">
+    <roomID>001</roomID>
+    <empty />
+  </room>
+  <room lastUpdate="2018-06-05T00:39:29+01:00">
+    <roomID>002</roomID>
+    <empty />
+  </room>
+  <room lastUpdate="2018-06-05T00:39:30+01:00">
+    <roomID>003</roomID>
+    <empty />
+  </room>
+  <room lastUpdate="2018-06-05T00:39:31+01:00">
+    <roomID>004</roomID>
+    <empty />
+  </room>
+  <room lastUpdate="2018-06-05T00:39:32+01:00">
+    <roomID>005</roomID>
+    <empty />
+  </room>
+  <room lastUpdate="2018-06-05T00:41:14+01:00">
+    <roomID>006</roomID>
+    <guest>
+      <firstName />
+      <lastName>ROBINSON, JOHN</lastName>
+      <salutation />
+      <langcode>en_GB</langcode>
+      <checkIn>2018-05-22T10:08:46+01:00</checkIn>
+      <scheduledCheckOut>2018-05-26T10:00:00+01:00</scheduledCheckOut>
+      <checkInStatus>true</checkInStatus>
+    </guest>
+  </room>
+  <room lastUpdate="2018-06-05T00:42:55+01:00">
+    <roomID>007</roomID>
+    <guest>
+      <firstName />
+      <lastName>MANION, AILEEN</lastName>
+      <salutation />
+      <langcode>en_GB</langcode>
+      <checkIn>2018-05-22T10:08:48+01:00</checkIn>
+      <scheduledCheckOut>2018-05-26T10:00:00+01:00</scheduledCheckOut>
+      <checkInStatus>true</checkInStatus>
+    </guest>
+  </room>
+  <room lastUpdate="2018-06-05T00:42:56+01:00">
+    <roomID>101</roomID>
+    <empty />
+  </room>
+  <room lastUpdate="2018-06-05T00:42:57+01:00">
+    <roomID>102</roomID>
+    <empty />
+  </room>
+  <room lastUpdate="2018-06-05T00:44:38+01:00">
+    <roomID>103</roomID>
+    <guest>
+      <firstName />
+      <lastName>JANZEN,, MANUELA</lastName>
+      <salutation />
+      <langcode>en_GB</langcode>
+      <checkIn>2018-05-22T10:08:50+01:00</checkIn>
+      <scheduledCheckOut>2018-05-27T10:00:00+01:00</scheduledCheckOut>
+      <checkInStatus>true</checkInStatus>
+    </guest>
+  </room>
+  <room lastUpdate="2018-06-05T00:44:39+01:00">
+    <roomID>104</roomID>
+    <empty />
+  </room>
+  <room lastUpdate="2018-06-05T00:44:40+01:00">
+    <roomID>105</roomID>
+    <empty />
+  </room>
+  <room lastUpdate="2018-06-05T00:44:41+01:00">
+    <roomID>106</roomID>
+    <empty />
+  </room>
+  <room lastUpdate="2018-06-05T00:46:22+01:00">
+    <roomID>107</roomID>
+    <guest>
+      <firstName />
+      <lastName>GALLAGHER, EDEL</lastName>
+      <salutation />
+      <langcode>pt_PT</langcode>
+      <checkIn>2018-05-22T10:08:53+01:00</checkIn>
+      <scheduledCheckOut>2018-05-26T10:00:00+01:00</scheduledCheckOut>
+      <checkInStatus>true</checkInStatus>
+    </guest>
+  </room>
+  <room lastUpdate="2018-06-05T00:48:04+01:00">
+    <roomID>108</roomID>
+    <guest>
+      <firstName />
+      <lastName>VAN DEN BOSSCHE, SABINE</lastName>
+      <salutation />
+      <langcode>pt_PT</langcode>
+      <checkIn>2018-05-22T10:08:54+01:00</checkIn>
+      <scheduledCheckOut>2018-05-26T10:00:00+01:00</scheduledCheckOut>
+      <checkInStatus>true</checkInStatus>
+    </guest>
+  </room>
+  <room lastUpdate="2018-06-05T00:49:46+01:00">
+    <roomID>109</roomID>
+    <guest>
+      <firstName />
+      <lastName>RODRIGUEZ ORTIZ DE ERIBE, ALEJANDRO</lastName>
+      <salutation />
+      <langcode>pt_PT</langcode>
+      <checkIn>2018-05-22T10:08:54+01:00</checkIn>
+      <scheduledCheckOut>2018-05-30T10:00:00+01:00</scheduledCheckOut>
+      <checkInStatus>true</checkInStatus>
+    </guest>
+  </room>
+  <room lastUpdate="2018-06-05T00:51:27+01:00">
+    <roomID>110</roomID>
+    <guest>
+      <firstName />
+      <lastName>MR. GRUYTERS, WILHELMUS</lastName>
+      <salutation />
+      <langcode>en_GB</langcode>
+      <checkIn>2018-05-22T10:08:55+01:00</checkIn>
+      <scheduledCheckOut>2018-05-28T10:00:00+01:00</scheduledCheckOut>
+      <checkInStatus>true</checkInStatus>
+    </guest>
+  </room>
+  <room lastUpdate="2018-06-05T00:53:08+01:00">
+    <roomID>111</roomID>
+    <guest>
+      <firstName />
+      <lastName>KRAMER, MARIE-SOPHIE</lastName>
+      <salutation />
+      <langcode>en_GB</langcode>
+      <checkIn>2018-05-22T10:08:56+01:00</checkIn>
+      <scheduledCheckOut>2018-05-23T10:00:00+01:00</scheduledCheckOut>
+      <checkInStatus>true</checkInStatus>
+    </guest>
+  </room>
+  <room lastUpdate="2018-06-05T00:54:49+01:00">
+    <roomID>112</roomID>
+    <guest>
+      <firstName />
+      <lastName>MEULENBROEK, JOHANNES</lastName>
+      <salutation />
+      <langcode>en_GB</langcode>
+      <checkIn>2018-05-22T13:00:58+01:00</checkIn>
+      <scheduledCheckOut>2018-06-05T10:00:00+01:00</scheduledCheckOut>
+      <checkInStatus>true</checkInStatus>
+    </guest>
+  </room>
+  <room lastUpdate="2018-06-05T00:56:31+01:00">
+    <roomID>113</roomID>
+    <guest>
+      <firstName />
+      <lastName>DUARTE, ANTONIO JOSE</lastName>
+      <salutation />
+      <langcode>pt_PT</langcode>
+      <checkIn>2018-05-22T10:08:57+01:00</checkIn>
+      <scheduledCheckOut>2018-05-26T10:00:00+01:00</scheduledCheckOut>
+      <checkInStatus>true</checkInStatus>
+    </guest>
+  </room>
+  <room lastUpdate="2018-06-05T00:58:12+01:00">
+    <roomID>114</roomID>
+    <guest>
+      <firstName />
+      <lastName>GAMEIRO, GABRIEL</lastName>
+      <salutation />
+      <langcode>pt_PT</langcode>
+      <checkIn>2018-05-22T10:08:58+01:00</checkIn>
+      <scheduledCheckOut>2018-05-26T10:00:00+01:00</scheduledCheckOut>
+      <checkInStatus>true</checkInStatus>
+    </guest>
+  </room>
+  <room lastUpdate="2018-06-05T00:59:53+01:00">
+    <roomID>115</roomID>
+    <guest>
+      <firstName />
+      <lastName>SALVADO, JOSE ANTONIO</lastName>
+      <salutation />
+      <langcode>pt_PT</langcode>
+      <checkIn>2018-05-22T10:08:58+01:00</checkIn>
+      <scheduledCheckOut>2018-05-26T10:00:00+01:00</scheduledCheckOut>
+      <checkInStatus>true</checkInStatus>
+    </guest>
+  </room>
+  <room lastUpdate="2018-06-05T00:59:54+01:00">
+    <roomID>116</roomID>
+    <empty />
+  </room>
+  <room lastUpdate="2018-06-05T01:01:35+01:00">
+    <roomID>117</roomID>
+    <guest>
+      <firstName />
+      <lastName>CROWLEY, MICHAEL</lastName>
+      <salutation />
+      <langcode>pt_PT</langcode>
+      <checkIn>2018-05-22T10:09:00+01:00</checkIn>
+      <scheduledCheckOut>2018-05-25T10:00:00+01:00</scheduledCheckOut>
+      <checkInStatus>true</checkInStatus>
+    </guest>
+  </room>
+  <room lastUpdate="2018-06-05T01:01:37+01:00">
+    <roomID>118</roomID>
+    <empty />
+  </room>
+  <room lastUpdate="2018-06-05T01:03:18+01:00">
+    <roomID>119</roomID>
+    <guest>
+      <firstName />
+      <lastName>VELDHUIZEN,, RICARDO</lastName>
+      <salutation />
+      <langcode>en_GB</langcode>
+      <checkIn>2018-05-22T10:09:01+01:00</checkIn>
+      <scheduledCheckOut>2018-05-26T10:00:00+01:00</scheduledCheckOut>
+      <checkInStatus>true</checkInStatus>
+    </guest>
+  </room>
+  <room lastUpdate="2018-06-05T01:03:19+01:00">
+    <roomID>120</roomID>
+    <empty />
+  </room>
+  <room lastUpdate="2018-06-05T01:03:20+01:00">
+    <roomID>121</roomID>
+    <empty />
+  </room>
+  <room lastUpdate="2018-06-05T01:03:21+01:00">
+    <roomID>122</roomID>
+    <empty />
+  </room>
+  <room lastUpdate="2018-06-05T01:05:02+01:00">
+    <roomID>123</roomID>
+    <guest>
+      <firstName />
+      <lastName>FAUT,, HENRICUS</lastName>
+      <salutation />
+      <langcode>en_GB</langcode>
+      <checkIn>2018-05-22T10:09:03+01:00</checkIn>
+      <scheduledCheckOut>2018-05-28T10:00:00+01:00</scheduledCheckOut>
+      <checkInStatus>true</checkInStatus>
+    </guest>
+  </room>
+  <room lastUpdate="2018-06-05T01:06:43+01:00">
+    <roomID>201</roomID>
+    <guest>
+      <firstName />
+      <lastName>GARVEY, CLAIRE</lastName>
+      <salutation />
+      <langcode>pt_PT</langcode>
+      <checkIn>2018-05-22T10:09:04+01:00</checkIn>
+      <scheduledCheckOut>2018-05-25T10:00:00+01:00</scheduledCheckOut>
+      <checkInStatus>true</checkInStatus>
+    </guest>
+  </room>
+  <room lastUpdate="2018-06-05T01:06:44+01:00">
+    <roomID>202</roomID>
+    <empty />
+  </room>
+  <room lastUpdate="2018-06-05T01:06:45+01:00">
+    <roomID>203</roomID>
+    <empty />
+  </room>
+  <room lastUpdate="2018-06-05T01:08:26+01:00">
+    <roomID>204</roomID>
+    <guest>
+      <firstName />
+      <lastName>DA FONSECA, ROGERIO</lastName>
+      <salutation />
+      <langcode>pt_PT</langcode>
+      <checkIn>2018-05-22T10:09:06+01:00</checkIn>
+      <scheduledCheckOut>2018-05-27T10:00:00+01:00</scheduledCheckOut>
+      <checkInStatus>true</checkInStatus>
+    </guest>
+  </room>
+  <room lastUpdate="2018-06-05T01:08:28+01:00">
+    <roomID>205</roomID>
+    <empty />
+  </room>
+  <room lastUpdate="2018-06-05T01:10:09+01:00">
+    <roomID>206</roomID>
+    <guest>
+      <firstName />
+      <lastName>PLUIMERS, HENDRIKUS</lastName>
+      <salutation />
+      <langcode>en_GB</langcode>
+      <checkIn>2018-05-22T10:09:07+01:00</checkIn>
+      <scheduledCheckOut>2018-06-02T10:00:00+01:00</scheduledCheckOut>
+      <checkInStatus>true</checkInStatus>
+    </guest>
+  </room>
+  <room lastUpdate="2018-06-05T01:11:50+01:00">
+    <roomID>207</roomID>
+    <guest>
+      <firstName />
+      <lastName>KABUS, SILVIA CRISTINA</lastName>
+      <salutation />
+      <langcode>pt_PT</langcode>
+      <checkIn>2018-05-22T10:09:08+01:00</checkIn>
+      <scheduledCheckOut>2018-05-25T10:00:00+01:00</scheduledCheckOut>
+      <checkInStatus>true</checkInStatus>
+    </guest>
+  </room>
+  <room lastUpdate="2018-06-05T01:13:32+01:00">
+    <roomID>208</roomID>
+    <guest>
+      <firstName />
+      <lastName>KABUS, FABIAN MANUEL</lastName>
+      <salutation />
+      <langcode>pt_PT</langcode>
+      <checkIn>2018-05-22T10:09:08+01:00</checkIn>
+      <scheduledCheckOut>2018-05-25T10:00:00+01:00</scheduledCheckOut>
+      <checkInStatus>true</checkInStatus>
+    </guest>
+  </room>
+  <room lastUpdate="2018-06-05T01:15:13+01:00">
+    <roomID>209</roomID>
+    <guest>
+      <firstName />
+      <lastName>EL IDD, JUAN JOSE</lastName>
+      <salutation />
+      <langcode>pt_PT</langcode>
+      <checkIn>2018-05-22T14:19:02+01:00</checkIn>
+      <scheduledCheckOut>2018-05-25T10:00:00+01:00</scheduledCheckOut>
+      <checkInStatus>true</checkInStatus>
+    </guest>
+  </room>
+  <room lastUpdate="2018-06-05T01:15:14+01:00">
+    <roomID>210</roomID>
+    <empty />
+  </room>
+  <room lastUpdate="2018-06-05T01:16:55+01:00">
+    <roomID>211</roomID>
+    <guest>
+      <firstName />
+      <lastName>CORNELIS, VALENTIJN</lastName>
+      <salutation />
+      <langcode>en_GB</langcode>
+      <checkIn>2018-05-22T10:09:10+01:00</checkIn>
+      <scheduledCheckOut>2018-05-23T10:00:00+01:00</scheduledCheckOut>
+      <checkInStatus>true</checkInStatus>
+    </guest>
+  </room>
+  <room lastUpdate="2018-06-05T01:18:37+01:00">
+    <roomID>212</roomID>
+    <guest>
+      <firstName />
+      <lastName>WONDERGEM, VERELEYN</lastName>
+      <salutation />
+      <langcode>en_GB</langcode>
+      <checkIn>2018-05-22T10:09:11+01:00</checkIn>
+      <scheduledCheckOut>2018-05-24T10:00:00+01:00</scheduledCheckOut>
+      <checkInStatus>true</checkInStatus>
+    </guest>
+  </room>
+  <room lastUpdate="2018-06-05T01:20:18+01:00">
+    <roomID>213</roomID>
+    <guest>
+      <firstName />
+      <lastName>PROMMENSCHENCKEL, THIERRY</lastName>
+      <salutation />
+      <langcode>en_GB</langcode>
+      <checkIn>2018-05-22T10:09:12+01:00</checkIn>
+      <scheduledCheckOut>2018-05-28T10:00:00+01:00</scheduledCheckOut>
+      <checkInStatus>true</checkInStatus>
+    </guest>
+  </room>
+  <room lastUpdate="2018-06-05T01:21:59+01:00">
+    <roomID>214</roomID>
+    <guest>
+      <firstName />
+      <lastName>GUERRERO PEREZ, JOSE</lastName>
+      <salutation />
+      <langcode>pt_PT</langcode>
+      <checkIn>2018-05-22T13:04:28+01:00</checkIn>
+      <scheduledCheckOut>2018-05-23T10:00:00+01:00</scheduledCheckOut>
+      <checkInStatus>true</checkInStatus>
+    </guest>
+  </room>
+  <room lastUpdate="2018-06-05T01:23:41+01:00">
+    <roomID>215</roomID>
+    <guest>
+      <firstName />
+      <lastName>ROCKSON, DANIELLE</lastName>
+      <salutation />
+      <langcode>pt_PT</langcode>
+      <checkIn>2018-05-22T10:09:13+01:00</checkIn>
+      <scheduledCheckOut>2018-05-24T10:00:00+01:00</scheduledCheckOut>
+      <checkInStatus>true</checkInStatus>
+    </guest>
+  </room>
+  <room lastUpdate="2018-06-05T01:23:42+01:00">
+    <roomID>216</roomID>
+    <empty />
+  </room>
+  <room lastUpdate="2018-06-05T01:23:43+01:00">
+    <roomID>217</roomID>
+    <empty />
+  </room>
+  <room lastUpdate="2018-06-05T01:23:44+01:00">
+    <roomID>218</roomID>
+    <empty />
+  </room>
+  <room lastUpdate="2018-06-05T01:25:26+01:00">
+    <roomID>219</roomID>
+    <guest>
+      <firstName />
+      <lastName>VAAGS, HENK</lastName>
+      <salutation />
+      <langcode>pt_PT</langcode>
+      <checkIn>2018-05-22T10:09:15+01:00</checkIn>
+      <scheduledCheckOut>2018-05-23T10:00:00+01:00</scheduledCheckOut>
+      <checkInStatus>true</checkInStatus>
+    </guest>
+  </room>
+  <room lastUpdate="2018-06-05T01:27:07+01:00">
+    <roomID>220</roomID>
+    <guest>
+      <firstName />
+      <lastName>DAWSON, AUDREY PATRICIA</lastName>
+      <salutation />
+      <langcode>en_GB</langcode>
+      <checkIn>2018-05-22T10:09:16+01:00</checkIn>
+      <scheduledCheckOut>2018-05-26T10:00:00+01:00</scheduledCheckOut>
+      <checkInStatus>true</checkInStatus>
+    </guest>
+  </room>
+  <room lastUpdate="2018-06-05T01:27:08+01:00">
+    <roomID>221</roomID>
+    <empty />
+  </room>
+  <room lastUpdate="2018-06-05T01:28:49+01:00">
+    <roomID>222</roomID>
+    <guest>
+      <firstName />
+      <lastName>DE CERIO GARCIA, MARIA DEL CARMEN</lastName>
+      <salutation />
+      <langcode>pt_PT</langcode>
+      <checkIn>2018-05-22T15:13:01+01:00</checkIn>
+      <scheduledCheckOut>2018-06-01T10:00:00+01:00</scheduledCheckOut>
+      <checkInStatus>true</checkInStatus>
+    </guest>
+  </room>
+  <room lastUpdate="2018-06-05T01:28:51+01:00">
+    <roomID>223</roomID>
+    <empty />
+  </room>
+  <room lastUpdate="2018-06-05T01:28:52+01:00">
+    <roomID>301</roomID>
+    <empty />
+  </room>
+  <room lastUpdate="2018-06-05T01:30:33+01:00">
+    <roomID>302</roomID>
+    <guest>
+      <firstName />
+      <lastName>HENRIQUES ASCENSO, JACINTO</lastName>
+      <salutation />
+      <langcode>pt_PT</langcode>
+      <checkIn>2018-05-22T10:09:19+01:00</checkIn>
+      <scheduledCheckOut>2018-05-28T10:00:00+01:00</scheduledCheckOut>
+      <checkInStatus>true</checkInStatus>
+    </guest>
+  </room>
+  <room lastUpdate="2018-06-05T01:32:14+01:00">
+    <roomID>303</roomID>
+    <guest>
+      <firstName />
+      <lastName>TEUTSCH, JULIA</lastName>
+      <salutation />
+      <langcode>pt_PT</langcode>
+      <checkIn>2018-05-22T10:09:20+01:00</checkIn>
+      <scheduledCheckOut>2018-05-25T10:00:00+01:00</scheduledCheckOut>
+      <checkInStatus>true</checkInStatus>
+    </guest>
+  </room>
+  <room lastUpdate="2018-06-05T01:32:15+01:00">
+    <roomID>304</roomID>
+    <empty />
+  </room>
+  <room lastUpdate="2018-06-05T01:33:56+01:00">
+    <roomID>305</roomID>
+    <guest>
+      <firstName />
+      <lastName>BURBECK, ELKE</lastName>
+      <salutation />
+      <langcode>en_GB</langcode>
+      <checkIn>2018-05-22T10:09:21+01:00</checkIn>
+      <scheduledCheckOut>2018-06-04T10:00:00+01:00</scheduledCheckOut>
+      <checkInStatus>true</checkInStatus>
+    </guest>
+  </room>
+  <room lastUpdate="2018-06-05T01:35:38+01:00">
+    <roomID>306</roomID>
+    <guest>
+      <firstName />
+      <lastName>DE SOUSA RAPOSO INACIO, EMA</lastName>
+      <salutation />
+      <langcode>pt_PT</langcode>
+      <checkIn>2018-05-22T10:09:22+01:00</checkIn>
+      <scheduledCheckOut>2018-05-26T10:00:00+01:00</scheduledCheckOut>
+      <checkInStatus>true</checkInStatus>
+    </guest>
+  </room>
+  <room lastUpdate="2018-06-05T01:35:39+01:00">
+    <roomID>307</roomID>
+    <empty />
+  </room>
+  <room lastUpdate="2018-06-05T01:37:20+01:00">
+    <roomID>308</roomID>
+    <guest>
+      <firstName />
+      <lastName>HENRIQUES ASCENSO, JACINTO</lastName>
+      <salutation />
+      <langcode>pt_PT</langcode>
+      <checkIn>2018-05-22T10:09:23+01:00</checkIn>
+      <scheduledCheckOut>2018-05-28T10:00:00+01:00</scheduledCheckOut>
+      <checkInStatus>true</checkInStatus>
+    </guest>
+  </room>
+  <room lastUpdate="2018-06-05T00:39:28+01:00">
+    <roomID>309</roomID>
+    <empty />
+  </room>
+  <room lastUpdate="2018-06-04T22:40:22+01:00">
+    <roomID>310</roomID>
+    <empty />
+  </room>
+  <room lastUpdate="2018-06-04T19:39:41+01:00">
+    <roomID>311</roomID>
+    <guest>
+      <firstName>MAXIMILIAN</firstName>
+      <lastName>NEYE</lastName>
+      <salutation>ALEXANDER</salutation>
+      <langcode>pt_PT</langcode>
+      <checkIn>2018-06-04T19:39:41+01:00</checkIn>
+      <scheduledCheckOut>2018-05-23T10:00:00+01:00</scheduledCheckOut>
+      <checkInStatus>true</checkInStatus>
+    </guest>
+  </room>
+  <room lastUpdate="2018-06-04T19:39:41+01:00">
+    <roomID>312</roomID>
+    <guest>
+      <firstName>CONSTANT</firstName>
+      <lastName>VERBURGH</lastName>
+      <salutation />
+      <langcode>pt_PT</langcode>
+      <checkIn>2018-06-04T19:39:41+01:00</checkIn>
+      <scheduledCheckOut>2018-05-30T10:00:00+01:00</scheduledCheckOut>
+      <checkInStatus>true</checkInStatus>
+    </guest>
+  </room>
+  <room lastUpdate="2018-06-04T19:39:42+01:00">
+    <roomID>313</roomID>
+    <empty />
+  </room>
+  <room lastUpdate="2018-06-04T19:39:53+01:00">
+    <roomID>314</roomID>
+    <guest>
+      <firstName>ANNIE</firstName>
+      <lastName>BAR</lastName>
+      <salutation />
+      <langcode>pt_PT</langcode>
+      <checkIn>2018-06-04T19:39:53+01:00</checkIn>
+      <scheduledCheckOut>2018-05-23T10:00:00+01:00</scheduledCheckOut>
+      <checkInStatus>true</checkInStatus>
+    </guest>
+  </room>
+  <room lastUpdate="2018-06-04T19:40:05+01:00">
+    <roomID>315</roomID>
+    <guest>
+      <firstName>LAURA</firstName>
+      <lastName>WILL</lastName>
+      <salutation />
+      <langcode>pt_PT</langcode>
+      <checkIn>2018-06-04T19:40:05+01:00</checkIn>
+      <scheduledCheckOut>2018-05-31T10:00:00+01:00</scheduledCheckOut>
+      <checkInStatus>true</checkInStatus>
+    </guest>
+  </room>
+  <room lastUpdate="2018-06-04T19:39:42+01:00">
+    <roomID>316</roomID>
+    <empty />
+  </room>
+  <room lastUpdate="2018-06-04T19:39:42+01:00">
+    <roomID>317</roomID>
+    <guest>
+      <firstName>ANTONIO</firstName>
+      <lastName>GONCALVES</lastName>
+      <salutation />
+      <langcode>pt_PT</langcode>
+      <checkIn>2018-06-04T19:39:42+01:00</checkIn>
+      <scheduledCheckOut>2018-05-27T10:00:00+01:00</scheduledCheckOut>
+      <checkInStatus>true</checkInStatus>
+    </guest>
+  </room>
+  <room lastUpdate="2018-06-04T19:39:48+01:00">
+    <roomID>318</roomID>
+    <empty />
+  </room>
+  <room lastUpdate="2018-06-04T19:40:06+01:00">
+    <roomID>319</roomID>
+    <guest>
+      <firstName>SHEILA</firstName>
+      <lastName>MEANEY</lastName>
+      <salutation />
+      <langcode>en_GB</langcode>
+      <checkIn>2018-06-04T19:40:06+01:00</checkIn>
+      <scheduledCheckOut>2018-05-29T10:00:00+01:00</scheduledCheckOut>
+      <checkInStatus>true</checkInStatus>
+    </guest>
+  </room>
+  <room lastUpdate="2018-06-04T19:39:43+01:00">
+    <roomID>320</roomID>
+    <empty />
+  </room>
+  <room lastUpdate="2018-06-04T19:39:43+01:00">
+    <roomID>321</roomID>
+    <empty />
+  </room>
+  <room lastUpdate="2018-06-04T19:39:43+01:00">
+    <roomID>322</roomID>
+    <empty />
+  </room>
+  <room lastUpdate="2018-06-04T19:39:43+01:00">
+    <roomID>323</roomID>
+    <guest>
+      <firstName>EDDA</firstName>
+      <lastName>HEIDKAMPER</lastName>
+      <salutation>EVE</salutation>
+      <langcode>pt_PT</langcode>
+      <checkIn>2018-06-04T19:39:43+01:00</checkIn>
+      <scheduledCheckOut>2018-05-24T10:00:00+01:00</scheduledCheckOut>
+      <checkInStatus>true</checkInStatus>
+    </guest>
+  </room>
+  <room lastUpdate="2018-06-04T19:39:43+01:00">
+    <roomID>401</roomID>
+    <empty />
+  </room>
+  <room lastUpdate="2018-06-04T19:39:44+01:00">
+    <roomID>402</roomID>
+    <guest>
+      <firstName>JOHANNA</firstName>
+      <lastName>VERHOEK</lastName>
+      <salutation />
+      <langcode>pt_PT</langcode>
+      <checkIn>2018-06-04T19:39:44+01:00</checkIn>
+      <scheduledCheckOut>2018-05-26T10:00:00+01:00</scheduledCheckOut>
+      <checkInStatus>true</checkInStatus>
+    </guest>
+  </room>
+  <room lastUpdate="2018-06-04T19:39:44+01:00">
+    <roomID>403</roomID>
+    <guest>
+      <firstName>JOHAN</firstName>
+      <lastName>STOFFERS</lastName>
+      <salutation />
+      <langcode>en_GB</langcode>
+      <checkIn>2018-06-04T19:39:44+01:00</checkIn>
+      <scheduledCheckOut>2018-05-26T10:00:00+01:00</scheduledCheckOut>
+      <checkInStatus>true</checkInStatus>
+    </guest>
+  </room>
+  <room lastUpdate="2018-06-04T19:39:44+01:00">
+    <roomID>404</roomID>
+    <empty />
+  </room>
+  <room lastUpdate="2018-06-04T19:39:44+01:00">
+    <roomID>405</roomID>
+    <guest>
+      <firstName>ANTONIUS</firstName>
+      <lastName>EPSKAMP</lastName>
+      <salutation />
+      <langcode>en_GB</langcode>
+      <checkIn>2018-06-04T19:39:44+01:00</checkIn>
+      <scheduledCheckOut>2018-05-28T10:00:00+01:00</scheduledCheckOut>
+      <checkInStatus>true</checkInStatus>
+    </guest>
+  </room>
+  <room lastUpdate="2018-06-04T19:40:07+01:00">
+    <roomID>406</roomID>
+    <empty />
+  </room>
+  <room lastUpdate="2018-06-04T19:39:50+01:00">
+    <roomID>407</roomID>
+    <empty />
+  </room>
+  <room lastUpdate="2018-06-04T19:39:49+01:00">
+    <roomID>408</roomID>
+    <empty />
+  </room>
+  <room lastUpdate="2018-06-04T19:39:49+01:00">
+    <roomID>409</roomID>
+    <empty />
+  </room>
+  <room lastUpdate="2018-06-04T19:39:45+01:00">
+    <roomID>410</roomID>
+    <guest>
+      <firstName>LUKAS</firstName>
+      <lastName>MITTERHUEMER</lastName>
+      <salutation>H.</salutation>
+      <langcode>pt_PT</langcode>
+      <checkIn>2018-06-04T19:39:45+01:00</checkIn>
+      <scheduledCheckOut>2018-05-23T10:00:00+01:00</scheduledCheckOut>
+      <checkInStatus>true</checkInStatus>
+    </guest>
+  </room>
+  <room lastUpdate="2018-06-04T19:39:45+01:00">
+    <roomID>411</roomID>
+    <guest>
+      <firstName>VLIET</firstName>
+      <lastName>VAN</lastName>
+      <salutation>NICOLAS</salutation>
+      <langcode>en_GB</langcode>
+      <checkIn>2018-06-04T19:39:45+01:00</checkIn>
+      <scheduledCheckOut>2018-06-02T10:00:00+01:00</scheduledCheckOut>
+      <checkInStatus>true</checkInStatus>
+    </guest>
+  </room>
+  <room lastUpdate="2018-06-04T19:39:45+01:00">
+    <roomID>412</roomID>
+    <empty />
+  </room>
+  <room lastUpdate="2018-06-04T19:39:45+01:00">
+    <roomID>413</roomID>
+    <empty />
+  </room>
+  <room lastUpdate="2018-06-04T19:39:45+01:00">
+    <roomID>414</roomID>
+    <empty />
+  </room>
+  <room lastUpdate="2018-06-04T19:39:45+01:00">
+    <roomID>415</roomID>
+    <guest>
+      <firstName>STEPHANIE</firstName>
+      <lastName>FOPPEN</lastName>
+      <salutation />
+      <langcode>pt_PT</langcode>
+      <checkIn>2018-06-04T19:39:45+01:00</checkIn>
+      <scheduledCheckOut>2018-05-26T10:00:00+01:00</scheduledCheckOut>
+      <checkInStatus>true</checkInStatus>
+    </guest>
+  </room>
+  <room lastUpdate="2018-02-08T16:20:52+00:00">
+    <roomID>416</roomID>
+    <empty />
+  </room>
+  <room lastUpdate="2018-02-08T16:20:53+00:00">
+    <roomID>417</roomID>
+    <empty />
+  </room>
+  <room lastUpdate="2018-02-08T16:20:54+00:00">
+    <roomID>418</roomID>
+    <empty />
+  </room>
+  <room lastUpdate="2018-02-08T16:20:55+00:00">
+    <roomID>419</roomID>
+    <empty />
+  </room>
+  <room lastUpdate="2018-02-08T16:20:56+00:00">
+    <roomID>420</roomID>
+    <empty />
+  </room>
+  <room lastUpdate="2018-02-08T16:20:57+00:00">
+    <roomID>421</roomID>
+    <empty />
+  </room>
+  <room lastUpdate="2018-02-08T16:20:58+00:00">
+    <roomID>422</roomID>
+    <empty />
+  </room>
+  <room lastUpdate="2018-02-08T16:20:59+00:00">
+    <roomID>423</roomID>
+    <empty />
+  </room>
+  <room lastUpdate="2018-06-04T19:39:46+01:00">
+    <roomID>501</roomID>
+    <empty />
+  </room>
+  <room lastUpdate="2018-06-04T19:39:46+01:00">
+    <roomID>502</roomID>
+    <empty />
+  </room>
+  <room lastUpdate="2018-06-04T19:39:46+01:00">
+    <roomID>503</roomID>
+    <guest>
+      <firstName>LUCIANO</firstName>
+      <lastName>RICCIARDELLI</lastName>
+      <salutation />
+      <langcode>pt_PT</langcode>
+      <checkIn>2018-06-04T19:39:46+01:00</checkIn>
+      <scheduledCheckOut>2018-05-23T10:00:00+01:00</scheduledCheckOut>
+      <checkInStatus>true</checkInStatus>
+    </guest>
+  </room>
+  <room lastUpdate="2018-06-04T19:39:46+01:00">
+    <roomID>504</roomID>
+    <guest>
+      <firstName>RITA</firstName>
+      <lastName>ROQUE</lastName>
+      <salutation />
+      <langcode>pt_PT</langcode>
+      <checkIn>2018-06-04T19:39:46+01:00</checkIn>
+      <scheduledCheckOut>2018-05-26T10:00:00+01:00</scheduledCheckOut>
+      <checkInStatus>true</checkInStatus>
+    </guest>
+  </room>
+  <room lastUpdate="2018-06-04T19:39:46+01:00">
+    <roomID>505</roomID>
+    <empty />
+  </room>
+  <room lastUpdate="2018-06-04T19:39:46+01:00">
+    <roomID>506</roomID>
+    <empty />
+  </room>
+  <room lastUpdate="2018-06-04T19:39:47+01:00">
+    <roomID>507</roomID>
+    <empty />
+  </room>
+  <room lastUpdate="2018-06-04T19:39:47+01:00">
+    <roomID>508</roomID>
+    <guest>
+      <firstName>FERDINAND</firstName>
+      <lastName>BOGAERTS</lastName>
+      <salutation />
+      <langcode>pt_PT</langcode>
+      <checkIn>2018-06-04T19:39:47+01:00</checkIn>
+      <scheduledCheckOut>2018-05-26T10:00:00+01:00</scheduledCheckOut>
+      <checkInStatus>true</checkInStatus>
+    </guest>
+  </room>
+  <room lastUpdate="2018-06-04T19:39:47+01:00">
+    <roomID>509</roomID>
+    <empty />
+  </room>
+  <room lastUpdate="2018-06-04T19:39:47+01:00">
+    <roomID>510</roomID>
+    <guest>
+      <firstName>YVONNE</firstName>
+      <lastName>STEINGEN</lastName>
+      <salutation />
+      <langcode>pt_PT</langcode>
+      <checkIn>2018-06-04T19:39:47+01:00</checkIn>
+      <scheduledCheckOut>2018-05-27T10:00:00+01:00</scheduledCheckOut>
+      <checkInStatus>true</checkInStatus>
+    </guest>
+  </room>
+  <room lastUpdate="2018-06-04T19:39:47+01:00">
+    <roomID>511</roomID>
+    <empty />
+  </room>
+  <room lastUpdate="2018-06-04T19:39:48+01:00">
+    <roomID>512</roomID>
+    <empty />
+  </room>
+  <room lastUpdate="2018-06-04T19:39:48+01:00">
+    <roomID>513</roomID>
+    <empty />
+  </room>
+  <room lastUpdate="2018-06-04T19:39:48+01:00">
+    <roomID>514</roomID>
+    <empty />
+  </room>
+</PMSData>

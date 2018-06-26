@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<PMSData lastUpdate="2014-01-23T01:23:24-05:00">
+	<room lastUpdate="2014-01-23T01:23:24-05:00">
+		<roomID>N204</roomID>
+		<guest>
+			<firstName>Richard</firstName>
+			<lastName>Smith</lastName>
+			<salutation>Mr.</salutation>
+			<langcode>en_GB</langcode>
+			<checkIn>2014-01-23T00:00:00-05:00</checkIn>
+			<scheduledCheckOut>2014-01-23T00:00:00-05:00</scheduledCheckOut>
+			<checkInStatus>true</checkInStatus>
+		</guest>
+		<billing>
+			<item>
+				<text>Room service</text>
+				<charge currency="EUR">10000</charge>
+				<date>2014-01-23T01:23:24-05:00</date>
+			</item>
+			<item>
+				<text>Movie rental</text>
+				<charge currency="EUR">500</charge>
+				<date>2014-01-23T01:23:24-05:00</date>
+			</item>
+		</billing>
+	</room>
+	<room lastUpdate="2014-01-22T01:50:44-05:00">
+		<roomID>N204</roomID>
+		<empty/>
+	</room>
+</PMSData>

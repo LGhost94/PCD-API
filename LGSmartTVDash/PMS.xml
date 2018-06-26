@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PMSData lastUpdate="2014-01-23T01:23:24-05:00">
+  <room lastUpdate="2014-01-23T01:23:24-05:01">
+    <roomID>N204</roomID>
+    <guest>
+      <firstName>Richard</firstName>
+      <lastName>Smith</lastName>
+      <salutation>Mr.</salutation>
+      <langcode>en_GB</langcode>
+      <checkIn>2014-01-23T00:00:00-05:00</checkIn>
+      <scheduledCheckOut>2014-01-23T00:00:00-05:00</scheduledCheckOut>
+      <checkInStatus>true</checkInStatus>
+    </guest>
+  </room>
+</PMSData>
